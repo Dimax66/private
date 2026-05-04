@@ -266,7 +266,7 @@ $items[] = $it;
 <title><?=h($APP_TITLE)?></title>
 <style>
 body {
-background:url("https://k.top4top.io/p_3563h0s8v1.png  ") no-repeat right center fixed;
+background:url("https://c.top4top.io/p_3776rzxyy1.jpg  ") no-repeat right center fixed;
 background-size:cover;
 color:#fff;
 font-family:monospace;
