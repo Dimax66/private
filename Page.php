@@ -266,7 +266,7 @@ $items[] = $it;
 <title><?=h($APP_TITLE)?></title>
 <style>
 body {
-background:url("https://c.top4top.io/p_3776rzxyy1.jpg  ") no-repeat right center fixed;
+background:url("https://raw.githubusercontent.com/Dimax66/apsaja/refs/heads/main/HD-wallpaper-anime-original-girl-night-sky-starry-sky.jpg  ") no-repeat right center fixed;
 background-size:cover;
 color:#fff;
 font-family:monospace;
